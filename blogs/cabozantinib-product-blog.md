@@ -22,11 +22,11 @@ The FDA has approved **Cabometyx (tablets)** for:
 
 **Cometriq (capsules)** is approved for **metastatic medullary thyroid cancer**.
 
-Cabometyx and Cometriq contain the same medicine but are **not interchangeable**. They come in different forms and doses, so never switch one for the other on your own.
+Cabometyx and Cometriq contain the same medicine but are **not interchangeable**, so never switch between them on your own.
 
 ## Usage and Dosage
 
-Cabozantinib is taken by mouth once a day. Your oncologist will choose the dose based on your cancer type and liver function, and on the other medicines you take.
+Cabozantinib is taken by mouth once a day. Your oncologist chooses the dose based on your cancer type, liver function and other medicines.
 
 - **Cabometyx alone (adults):** 60 mg once daily
 - **Cabometyx with nivolumab (kidney cancer):** 40 mg once daily
@@ -45,7 +45,7 @@ Cabozantinib is taken by mouth once a day. Your oncologist will choose the dose 
 
 ## Side Effects
 
-Most patients have some side effects. The good news is that many can be managed by pausing treatment for a short time or lowering the dose.
+Most patients have some side effects, but many can be managed by pausing treatment or lowering the dose.
 
 **Common side effects include:**
 - Diarrhoea, nausea, vomiting and constipation
@@ -83,13 +83,13 @@ Tell your oncologist about all your health conditions and medicines, including s
 
 The brands Cabometyx and Cometriq are made by Exelixis. At present, the **US FDA has not approved a generic version of Cabometyx**, so patients in the United States can only buy the brand.
 
-In India, several companies make generic cabozantinib under Indian regulatory approval. They include Natco (Cazanat), Dr. Reddy's and Cipla. These generics contain the same active ingredient (cabozantinib) and usually come as 20 mg, 40 mg and 60 mg tablets. The main difference is price: the Indian generics cost a small fraction of the brand.
+In India, several companies make generic cabozantinib under Indian regulatory approval. They include Natco (Cazanat), Dr. Reddy's and Cipla. They contain the same active ingredient, usually as 20 mg, 40 mg and 60 mg tablets, at a small fraction of the brand's price.
 
 In other words, a generic can make long-term treatment affordable. Check with your oncologist before switching.
 
 ## Cabozantinib Price and Buy Online
 
-Like most targeted cancer drugs, cabozantinib is expensive. The cabozantinib price depends on the country, the brand or generic you choose, and your insurance. Here is an approximate price for a 30-tablet pack (one month's supply):
+The cabozantinib price depends on the country, the brand or generic you choose, and your insurance. Here is the approximate cost of a 30-tablet pack (one month):
 
 | Country | Product | Approximate Price (30 tablets) |
 |---|---|---|
@@ -99,7 +99,11 @@ Like most targeted cancer drugs, cabozantinib is expensive. The cabozantinib pri
 | Malaysia | Generic cabozantinib 60 mg (imported from India) | RM170 – RM555 |
 | Philippines | Generic cabozantinib 60 mg (imported from India) | ₱2,600 – ₱8,500 |
 
-*Brand Cabometyx prices in Malaysia and the Philippines are not published, so many patients import the Indian generic. Those rows show the Indian price converted at 27 September 2026 rates (₹1 = RM0.0425; ₹1 = ₱0.652), excluding shipping. Prices change often; request a current quote before ordering.*
+**Cabozantinib price in Malaysia:** Brand Cabometyx is supplied through hospital cancer pharmacies, and its price is not published. Generic cabozantinib 60 mg imported from India costs about RM6–RM19 per tablet (US$1.40–$4.50), or RM170–RM555 per month (about US$42–$136).
+
+**Cabozantinib price in the Philippines:** Brand Cabometyx is also supplied through hospitals, and its price is not published. The imported Indian generic costs about ₱87–₱283 per tablet (US$1.40–$4.50), or ₱2,600–₱8,500 per month (about US$42–$136).
+
+*Malaysia and Philippines prices are converted from Indian prices at 27 September 2026 rates and exclude shipping. Prices change often; request a current quote.*
 
 **Ways to reduce the cost:**
 - **Manufacturer support:** in the US, the Exelixis EASE co-pay programme can lower out-of-pocket costs for eligible insured patients.
@@ -130,7 +134,7 @@ No. Cabozantinib is a prescription medicine. You need a valid prescription from 
 Send your prescription on WhatsApp (+91-9999-344-593), email info@medixocentre.com, or click "Get Quote" on medixocentre.com.
 
 **How long will I need to take cabozantinib?**
-Most patients take it for as long as it keeps the cancer under control and the side effects stay manageable. Your oncologist will decide based on your scans and blood tests.
+Usually for as long as it controls the cancer and side effects stay manageable. Your oncologist decides based on scans and blood tests.
 
 ## The Bottom Line
 
