@@ -4,18 +4,9 @@
 
 # Cabozantinib (Cabometyx): Uses, Side Effects, Price & Buy Online Guide
 
-One daily dose. Four types of cancer. One targeted medicine.
+Hearing the name of a new cancer medicine for the first time can feel overwhelming. You want to know what it does, whether it is safe, and how much it will cost. For many patients with advanced kidney, liver, thyroid or neuroendocrine cancer, that medicine is cabozantinib, sold as Cabometyx and Cometriq.
 
-That medicine is cabozantinib, sold as Cabometyx and Cometriq. It is used for advanced kidney, liver, thyroid and neuroendocrine cancers, and it works very differently from chemotherapy. Chemotherapy attacks every fast-growing cell. Cabozantinib instead cuts off the specific signals a tumour uses to grow and to build its own blood supply.
-
-**Cabozantinib at a glance**
-- **Type:** Targeted therapy (tyrosine kinase inhibitor)
-- **How it is taken:** By mouth, once daily, on an empty stomach
-- **Brands:** Cabometyx (tablets) and Cometriq (capsules)
-- **Generic:** Available in India; not yet approved in the US
-- **Monthly cost:** From about ₹4,000 in India to over US$26,000 in the USA
-
-Below, we cover dosage, side effects, precautions and pricing, all taken from FDA prescribing information. We also explain how to buy cabozantinib online safely through Medixo Centre.
+This blog walks you through it step by step. We start with what cabozantinib is and how it fights cancer, then explain the right dose and how to take it. Next, we cover the side effects and precautions your oncologist will watch closely, and the difference between the brand and generic versions. Finally, we compare the cabozantinib price in the USA, UK and India, share simple safety advice, and show how to buy cabozantinib online safely through Medixo Centre. All the information comes from FDA-approved prescribing information.
 
 ## Description
 
