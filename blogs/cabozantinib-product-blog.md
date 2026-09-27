@@ -8,18 +8,6 @@ If your oncologist has mentioned cabozantinib, your cancer has a targeted option
 
 In the next few minutes, you will learn what cabozantinib is, how it is taken, the side effects to watch for, how the generic compares with the brand, and what cabozantinib costs in the USA, UK and India. You will also learn how to buy cabozantinib online safely through Medixo Centre. Everything here is based on FDA-approved prescribing information, explained in plain language.
 
-**Contents**
-- Description
-- Usage and Dosage
-- Side Effects
-- Warnings and Precautions
-- Generic vs Brand
-- Cabozantinib Price and Buy Online
-- Safety Advice
-- Frequently Asked Questions
-- The Bottom Line
-- References
-
 ## Description
 
 Cabozantinib is the scientific (generic) name of the medicine. **Cabometyx** and **Cometriq** are its brand names, both made by Exelixis. Outside the US and Japan, Cabometyx is marketed by Ipsen.
