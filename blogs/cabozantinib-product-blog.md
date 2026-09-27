@@ -1,12 +1,12 @@
 <!--
 SEO Title: Cabozantinib Price & Buy Online | Uses, Dosage, Side Effects, Generic vs Brand
-Meta Description: Cabozantinib price in the USA, UK, Malaysia, Philippines and India. Learn about uses, dosage, side effects, generic vs brand, and how to buy Cabozantinib online safely.
+Meta Description: Cabozantinib price in the USA, UK and India. Learn about uses, dosage, side effects, generic vs brand, and how to buy Cabozantinib online safely.
 Primary keywords: Cabozantinib price, Cabozantinib buy online
 -->
 
 # Cabozantinib: Uses, Dosage, Side Effects, Price & How to Buy Online
 
-A cancer diagnosis brings hard questions: what the treatment does, how to take it, what it costs, and where to get it safely. This guide answers those questions for **Cabozantinib**, a targeted cancer medicine. It also compares **Cabozantinib price** in the USA, UK, Malaysia, the Philippines and India, and explains how to **buy Cabozantinib online** without putting your health at risk.
+A cancer diagnosis brings hard questions: what the treatment does, how to take it, what it costs, and where to get it safely. This guide answers those questions for **Cabozantinib**, a targeted cancer medicine. It also compares **Cabozantinib price** in the USA, UK and India, and explains how to **buy Cabozantinib online** without putting your health at risk.
 
 ---
 
@@ -114,8 +114,6 @@ Tell your doctor about all your health conditions and all your medicines before 
 |---|---|---|
 | 🇺🇸 **USA** | Cabometyx (any strength) | **~US$26,400–$28,700** cash price before insurance |
 | 🇬🇧 **UK** | Cabometyx (20/40/60 mg) | **£5,143** NHS list price (excluding VAT) |
-| 🇲🇾 **Malaysia** | Cabometyx (brand) | Supplied through hospital oncology pharmacies. **No public retail price;** often costs thousands of US dollars per month |
-| 🇵🇭 **Philippines** | Cabometyx (brand) | Supplied through hospital oncology pharmacies. **No public retail price;** often costs thousands of US dollars per month |
 | 🇮🇳 **India** | Generic cabozantinib 60 mg (e.g., Cazanat, Cabozanib) | **~₹4,000–₹13,000** (about US$45–$155) |
 
 *Prices are indicative. They were collected from public sources (Drugs.com/GoodRx for the USA, NICE/BNF for the UK, and Indian online pharmacies) and change often. Always confirm the current price before ordering.*
