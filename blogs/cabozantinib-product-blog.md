@@ -1,16 +1,16 @@
 **Meta title:** Cabozantinib (Cabometyx): Uses, Side Effects, Price & Buy Online
 
-**Meta description:** A simple guide to cabozantinib (Cabometyx), a targeted cancer medicine. Covers how it works, dosage, side effects, generic vs brand, and cabozantinib price in the USA, UK and India.
+**Meta description:** A simple guide to cabozantinib (Cabometyx), a targeted cancer medicine. Covers how it works, dosage, side effects, generic vs brand, and cabozantinib price in the USA, UK, India, Malaysia and the Philippines.
 
 # Cabozantinib (Cabometyx): Uses, Side Effects, Price & Buy Online Guide
 
 When a new medicine is added to your cancer treatment, or to the treatment of someone you love, it is natural to feel anxious. Questions come quickly. What will it do? Will the side effects be hard to live with? Can we afford it? If your oncologist has prescribed cabozantinib (Cabometyx or Cometriq) for advanced kidney, liver, thyroid or neuroendocrine cancer, you are not alone in asking them.
 
-We have put this guide together to give you clear, honest answers, one step at a time. You will learn what cabozantinib is and how it works against cancer, how to take it, and which side effects and precautions matter most. We also explain how generic and brand versions differ, compare the cabozantinib price in the USA, UK and India, and share everyday safety tips. Finally, we show how Medixo Centre can help you buy cabozantinib online safely. Everything is based on FDA-approved prescribing information, so you can walk into your next appointment feeling informed and a little more in control.
+We have put this guide together to give you clear, honest answers, one step at a time. You will learn what cabozantinib is and how it works against cancer, how to take it, and which side effects and precautions matter most. We also explain how generic and brand versions differ, compare the cabozantinib price in the USA, UK, India, Malaysia and the Philippines, and share everyday safety tips. Finally, we show how Medixo Centre can help you buy cabozantinib online safely. Everything is based on FDA-approved prescribing information, so you can walk into your next appointment feeling informed and a little more in control.
 
 ## Description
 
-Cabozantinib is the scientific (generic) name of the medicine. **Cabometyx** and **Cometriq** are its brand names, both made by Exelixis. Outside the US and Japan, Cabometyx is marketed by Ipsen.
+Cabozantinib is the generic name of the medicine. **Cabometyx** and **Cometriq** are its brand names, made by Exelixis (and marketed by Ipsen outside the US and Japan).
 
 Cabozantinib is a **tyrosine kinase inhibitor (TKI)**. Chemotherapy attacks healthy and cancer cells alike. Cabozantinib instead blocks several specific proteins that tumours rely on, mainly **MET, VEGFR-2, AXL and RET**. These proteins help cancer cells grow and build new blood vessels to feed themselves. When they are blocked, the tumour's growth can slow down or stop.
 
@@ -65,11 +65,11 @@ Most patients have some side effects. The good news is that many can be managed 
 - Protein in the urine and liver damage
 - RPLS, a rare brain condition that causes headache, confusion, seizures or vision changes
 
-For this reason, cabozantinib needs regular check-ups. Your doctor will track your blood pressure, liver, kidneys and thyroid throughout treatment.
+That is why your doctor will check your blood pressure, liver, kidneys and thyroid regularly.
 
 ## Warnings and Precautions
 
-Before starting cabozantinib, tell your oncologist about every health condition you have and every medicine you take, including supplements.
+Tell your oncologist about all your health conditions and medicines, including supplements, before you start.
 
 - **Surgery:** stop at least **3 weeks before planned surgery**. Restart no sooner than **2 weeks after major surgery**, and only once the wound has healed.
 - **Dental procedures:** stop at least **3 weeks before invasive dental work** to lower the risk of jaw damage.
@@ -85,7 +85,7 @@ The brands Cabometyx and Cometriq are made by Exelixis. At present, the **US FDA
 
 In India, several companies make generic cabozantinib under Indian regulatory approval. They include Natco (Cazanat), Dr. Reddy's and Cipla. These generics contain the same active ingredient (cabozantinib) and usually come as 20 mg, 40 mg and 60 mg tablets. The main difference is price: the Indian generics cost a small fraction of the brand.
 
-In other words, a generic can make long-term treatment affordable. Always check with your oncologist before switching, and buy only from a licensed source.
+In other words, a generic can make long-term treatment affordable. Check with your oncologist before switching.
 
 ## Cabozantinib Price and Buy Online
 
@@ -96,8 +96,10 @@ Like most targeted cancer drugs, cabozantinib is expensive. The cabozantinib pri
 | USA | Cabometyx (brand) | US$26,400 – $28,700 before insurance |
 | UK | Cabometyx (brand) | £5,143 (NHS list price, excluding VAT) |
 | India | Generic cabozantinib 60 mg | ₹4,000 – ₹13,000 |
+| Malaysia | Generic cabozantinib 60 mg (imported from India) | RM170 – RM555 |
+| Philippines | Generic cabozantinib 60 mg (imported from India) | ₱2,600 – ₱8,500 |
 
-*Prices are approximate and change often. Please request a current quote before ordering.*
+*Brand Cabometyx prices in Malaysia and the Philippines are not published, so many patients import the Indian generic. Those rows show the Indian price converted at 27 September 2026 rates (₹1 = RM0.0425; ₹1 = ₱0.652), excluding shipping. Prices change often; request a current quote before ordering.*
 
 **Ways to reduce the cost:**
 - **Manufacturer support:** in the US, the Exelixis EASE co-pay programme can lower out-of-pocket costs for eligible insured patients.
@@ -132,7 +134,7 @@ Most patients take it for as long as it keeps the cancer under control and the s
 
 ## The Bottom Line
 
-Cabozantinib has given patients with advanced kidney, liver, thyroid and neuroendocrine cancers a strong targeted option. It is a powerful medicine, so it needs regular monitoring, honest conversations with your care team, and close attention to side effects. Whether you choose the brand or a generic, make every treatment decision together with your oncologist.
+Cabozantinib gives patients with advanced kidney, liver, thyroid and neuroendocrine cancers a strong targeted option. It is a powerful medicine that needs regular monitoring and close attention to side effects. Whether you choose the brand or a generic, make every decision together with your oncologist.
 
 ## References
 
