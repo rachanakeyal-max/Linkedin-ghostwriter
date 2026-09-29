@@ -1,8 +1,8 @@
-**Meta title:** Cabozantinib (Cabometyx): Uses, Side Effects, Price & Buy Online
+**Meta title:** Cabozantinib Price & Buy Online: Compare Costs in 5 Countries
 
-**Meta description:** A simple guide to cabozantinib (Cabometyx), a targeted cancer medicine. Covers how it works, dosage, side effects, generic vs brand, and cabozantinib price in the USA, UK, India, Malaysia and the Philippines.
+**Meta description:** Compare cabozantinib price in the USA, UK, India, Malaysia & Philippines, and learn how to buy cabozantinib online safely, with dosage and side-effect tips.
 
-# Cabozantinib (Cabometyx): Uses, Side Effects, Price & Buy Online Guide
+# Cabozantinib Price and Buy Online: What Every Patient Should Know Before Starting Cabometyx
 
 When a new medicine is added to your cancer treatment, or to the treatment of someone you love, it is natural to feel anxious. Questions come quickly. What will it do? Will the side effects be hard to live with? Can we afford it? If your oncologist has prescribed cabozantinib (Cabometyx or Cometriq) for advanced kidney, liver, thyroid or neuroendocrine cancer, you are not alone in asking them.
 
