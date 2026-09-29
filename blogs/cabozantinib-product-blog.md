@@ -15,6 +15,7 @@ Cabozantinib is the generic name of the medicine. **Cabometyx** and **Cometriq**
 Cabozantinib is a **tyrosine kinase inhibitor (TKI)**. Chemotherapy attacks healthy and cancer cells alike. Cabozantinib instead blocks several specific proteins that tumours rely on, mainly **MET, VEGFR-2, AXL and RET**. These proteins help cancer cells grow and build new blood vessels to feed themselves. When they are blocked, the tumour's growth can slow down or stop.
 
 The FDA has approved **Cabometyx (tablets)** for:
+
 - **Advanced renal cell carcinoma (kidney cancer)**, on its own or as a first treatment together with nivolumab
 - **Hepatocellular carcinoma (liver cancer)** in patients who have already been treated with sorafenib
 - **Differentiated thyroid cancer** that has worsened after other targeted therapy and no longer responds to radioactive iodine (ages 12 and up)
@@ -35,6 +36,7 @@ Cabozantinib is taken by mouth once a day. Your oncologist chooses the dose base
 - **Moderate liver impairment:** 40 mg once daily (Cabometyx)
 
 **How to take it:**
+
 - Take Cabometyx on an empty stomach, at least **1 hour before or 2 hours after** eating.
 - For Cometriq, do not eat for **2 hours before and 1 hour after** each dose.
 - Swallow the tablet whole with water. Do not crush or chew it.
@@ -48,6 +50,7 @@ Cabozantinib is taken by mouth once a day. Your oncologist chooses the dose base
 Most patients have some side effects, but many can be managed by pausing treatment or lowering the dose.
 
 **Common side effects include:**
+
 - Diarrhoea, nausea, vomiting and constipation
 - Tiredness and weakness
 - Loss of appetite and weight loss
@@ -57,6 +60,7 @@ Most patients have some side effects, but many can be managed by pausing treatme
 - Hoarse voice and changes in hair colour
 
 **Serious side effects that need immediate medical attention:**
+
 - Severe bleeding, such as vomiting blood, coughing up blood or black stools
 - A tear in the stomach or bowel wall, or an abnormal connection between organs (fistula)
 - Blood clots, stroke or heart attack
@@ -106,6 +110,7 @@ The cabozantinib price depends on the country, the brand or generic you choose, 
 *Malaysia and Philippines prices are converted from Indian prices at 27 September 2026 rates and exclude shipping. Prices change often; request a current quote.*
 
 **Ways to reduce the cost:**
+
 - **Manufacturer support:** in the US, the Exelixis EASE co-pay programme can lower out-of-pocket costs for eligible insured patients.
 - **Insurance appeals:** a denied claim can often be reversed with proper documentation from your oncologist.
 - **Buy cabozantinib online through Medixo Centre.** Medixo Centre sources from USFDA-approved suppliers and ships worldwide, with free shipping on orders above $499. It is Trustpilot and Google Verified and has served more than 10,000 patients. Send your prescription on WhatsApp (+91-9999-344-593) or to info@medixocentre.com.
